@@ -1,0 +1,95 @@
+.encabezado{
+    background-color:#004225;
+    color:#D9E997;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+    text-align:center;
+    font-weight: bolder;
+    padding:30px;
+}
+
+
+.my-navbar{
+    background-color: #D9E997;
+    color:#004225;
+    font-weight: bold;
+    text-align: center;
+    padding:20px;
+
+}
+
+body{
+    background-color: #EDEDED;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding:50px;
+}
+
+h2{
+    font-size:30px;
+    text-align:center;
+    font-weight: bold;
+    padding:20px;
+}
+article h3{
+    font-size:25px;
+    font-weight: bold;
+    padding:15px;
+}
+
+img{
+    display:inline-block;
+    width:50%;
+    height:auto;
+
+}
+
+form{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-style: solid;
+    border-color:#004225;
+}
+
+article h3{
+    font-size:20px;
+    font-weight: bold;
+    background-color:#004225;
+    color:#D9E997
+}
+
+footer{
+    background-color: #004225;
+    color: #D9E997;
+    padding-bottom: 20px;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 30px;
+}
+
+img{
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.galeria img {
+    width: 250px;
+}
+
+
+
+
+
